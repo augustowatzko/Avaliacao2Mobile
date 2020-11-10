@@ -1,2 +1,1 @@
-# Avaliacao2Mobile
-NP2 - Desenvolvimento Mobile
+# NP2 - Desenvolvimento Mobile
